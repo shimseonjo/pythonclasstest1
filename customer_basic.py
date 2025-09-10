@@ -1,4 +1,3 @@
-import re
 custlist=[{'name': 'hong', 'gender': 'M', 'email': 'hong@gmail.com', 'birthyear': 2000},
           {'name': 'kim', 'gender': 'F', 'email': 'kim@gmail.com', 'birthyear': 2001},
           {'name': 'lee', 'gender': 'M', 'email': 'lee@gmail.com', 'birthyear': 2002},
